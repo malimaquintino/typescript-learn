@@ -1,0 +1,9 @@
+{
+    "name": "hello",
+    "version": "1.0",
+    "main":"index.js",
+    "devDependencies": {
+        "ts-node": "^9.1.1",
+        "typescript": "^4.2.3"
+    }
+}
