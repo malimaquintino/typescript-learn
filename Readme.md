@@ -1,16 +1,17 @@
-# typescript-estudos
-Repositório para estudo de typescript
+# typescript-learn
+Repository to study TypeScript
 
-## instalação
+
+## install dependencies
 npm i typescript -D --save
 npm i ts-node -D --save
 npm i ts-loader webpack webpack-cli --save-dev
 
-## compilar
+## compile
 npx tsc index.ts
 
-## executar
+## execute
 node index.js
 
-## iniciar um projeto typescript do 0
+## start a project from 0
 npx tsc --init
